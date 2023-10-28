@@ -1,0 +1,187 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: space-around;
+    gap: 60%;
+}
+#logo{
+    height:30px;
+    
+
+    
+}
+#cart{
+    height: 30px;
+   
+
+}
+#bg{
+    height: 40%;
+    width: 100%;
+}
+.introtext{
+    /* border: 3px solid green; */
+    position: absolute;
+   top:60px;
+   left: 40px;
+   line-height: 1.3;
+  
+
+ 
+    
+}
+.intro{
+    /* border: 3px solid green; */
+    position: relative;
+    color: white;
+ 
+}
+h1{
+    font-size: 60px;
+    
+}
+ p{
+    font-weight: 900;
+    font-size: 20px;
+    margin: 10px;
+    margin-left: 0px;
+}
+
+
+.cart{
+    display: flex;
+    align-items: center;
+
+}
+.class1{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+
+}
+.img{
+    height: 70%;
+    width: 70%;
+}
+button{
+    background-color: #6196ff;
+    border: none;
+    color: white;
+    
+    height: 30px;
+    width:auto;
+
+}
+.BT{
+    width: 20px;
+    margin-left: 3px;
+
+}
+.item-price{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 40px;
+}
+.class1{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 20px;
+    padding: 10px;
+}
+.text{
+    position: absolute;
+    top: -30px;
+    left: 10px;
+    font-size: 15px;
+}
+
+
+.class3{
+    
+        position: relative;
+        margin-top: 50px;
+        margin-left: 20px;
+        padding: 10px;
+        display: flex;
+        justify-content: space-around;
+        gap: 20px;
+    
+    }
+    .item-price1{
+        display: flex;
+        /* justify-content: space-between; */
+        gap: 30%;
+    }
+    .discover-handmade{
+        display: flex;
+        justify-content: space-around ;
+        
+    }
+    .class4{
+        position: relative;
+      
+        
+        display: flex;
+        justify-content: space-around;
+        gap: 20px;
+    
+
+    }
+    .discover-handmade .bookitem{
+        width: 230px;
+    }
+    .discover-handmade{
+        margin: 50px 0px;
+        position: relative;
+        padding-top: 30px;
+  
+    }
+    footer{
+        background-color: black;
+        /* height: 200px; */
+        padding: 5px 50px;
+        display: flex;
+        justify-content: space-around;
+        
+        color: white;
+    }
+    .brought h3{
+        width: 81px;
+        margin: 3px;
+        text-align: center;
+        font-weight: 100;
+    }
+    .brought .img2{
+        width: 100px;
+        height: 100px;
+        border-radius:50% ;
+        background-image: url(assets/krishti.png);
+        background-position: center;
+        background-size: cover;
+    }
+    .name{
+        width: 100%;
+        margin-top: 30px;
+        text-align: end;
+        font-size: 14px;
+    }
+     .name h2{
+        margin-right: 20px;    }
+    .name p{
+        margin-top:30x;
+       ;
+       font-size: 15px;
+       line-height: -1.2;
+    }
+   
+#z{ position: absolute;
+    top: -30px;
+    left: 30px;
+    font-size: 15px;
+
+}
